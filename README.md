@@ -5,11 +5,11 @@ __Instructor__: Andrew Ng.
 
 | Week | Links |
 |:----:|:-----:|
-| [Week 1](#week1) | [[Quizzes]](#quizzes) |
-| [Week 2](#week2) | [[Quizzes]](#quizzes2) [[Programming Assignment]](#programming-exercises1) |
-| [Week 3](#week3) | [[Quizzes]](#quizzes3) [[Programming Assignment]](#programming-exercises2) |
-| [Week 4](#week4) | [[Quizzes]](#quizzes4) [[Programming Assignment]](#programming-exercises3) |
-| [Week 5](#week5) | [[Quizzes]](#quizzes5) [[Programming Assignment]](#programming-exercises4) |
+| [Week 1](#week-1) | [[Quizzes]](#quizzes) |
+| [Week 2](#week-2) | [[Quizzes]](#quizzes2) [[Programming Assignment]](#programming-exercises1) |
+| [Week 3](#week-3) | [[Quizzes]](#quizzes3) [[Programming Assignment]](#programming-exercises2) |
+| [Week 4](#week-4) | [[Quizzes]](#quizzes4) [[Programming Assignment]](#programming-exercises3) |
+| [Week 5](#week-5) | [[Quizzes]](#quizzes5) [[Programming Assignment]](#programming-exercises4) |
 
 
 ## Week 1
