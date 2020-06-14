@@ -6,8 +6,8 @@ function lambda = regularizationFactor()
   lambda = 10;
 endfunction
 
-function value = sigmoid(matrix)
-  value = 1 ./ (1 + exp(-matrix));
+function value = sigmoid(vector)
+  value = 1 ./ (1 + exp(-vector));
 endfunction
 
 function J = logisticRegressionCost(theta, X, y)
