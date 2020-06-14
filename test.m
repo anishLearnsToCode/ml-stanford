@@ -35,3 +35,4 @@ disp(costFunction(x, hypothesis, y));
 
 
 disp(computeCost(x, y, hypothesis));
+gradientDescent()
