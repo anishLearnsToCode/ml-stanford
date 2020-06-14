@@ -38,5 +38,6 @@ __Instructor__: Andrew Ng.
 
 ## Week 4 
 ### Quizzes
+- [Neural Networks: Representation](week4/neural-networks-quiz.md)
 
 ### Programming Exercises
