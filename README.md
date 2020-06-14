@@ -1,6 +1,8 @@
 # Machine Learning By Stanford on Coursera  
 __Instructor__: Andrew Ng.
 
+[Week 1](#week-4)
+
 ## Week 1
 ### Quizzes
 - [Introduction](week1/introduction.pdf)
