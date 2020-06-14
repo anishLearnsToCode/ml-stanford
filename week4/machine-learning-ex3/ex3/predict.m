@@ -8,7 +8,15 @@ m = size(X, 1);
 num_labels = size(Theta2, 1);
 
 % You need to return the following variables correctly 
-p = zeros(size(X, 1), 1);
+% p = zeros(m, 1);
+
+% add x0 in x
+a1 = [ones(m, 1) X];
+a2 = sigmoid(a1 * Theta1');
+a2 = [ones(m, 1) a2];
+a3 = sigmoid(a2 * Theta2');
+[maxProbability index] = max(a3, [], 2);
+p = index;
 
 % ====================== YOUR CODE HERE ======================
 % Instructions: Complete the following code to make predictions using

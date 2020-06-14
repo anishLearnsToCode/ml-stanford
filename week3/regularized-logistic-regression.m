@@ -15,7 +15,7 @@ function J = logisticRegressionCost(theta, X, y)
   trainingSamples = length(y);
   J = -(1 / trainingSamples) * sum(
     y .* log(estimatedResults) 
-    + (1 - y) .* log(estimatedResults)
+    + (1 - y) .* log(1 - estimatedResults)
   );
 endfunction
 
@@ -25,7 +25,7 @@ function J = logisticRegressionRegularizedCost(theta, X, y)
   
   J = (- 1 / trainingSamples) * sum(
     y .* log(estimatedResults) 
-    + (1 - y) .* log(estimatedResults)
+    + (1 - y) .* log(1 - estimatedResults)
   ) + (regularizationFactor() / (2 * trainingSamples)) * (
     sum(theta .^ 2) - theta(1) ^ 2
   );
