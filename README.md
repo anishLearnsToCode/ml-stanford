@@ -52,3 +52,9 @@ __Instructor__: Andrew Ng.
 - [Neural Networks: Representation](week4/neural-networks-quiz.md)
 
 ### Programming Exercises
+- [Questions and Explanations](week4/machine-learning-ex3/ex3.pdf)
+- [Exercise 3](week4/machine-learning-ex3/ex3)
+    - [Logistic Regression Cost Function](week4/machine-learning-ex3/ex3/lrCostFunction.m)
+    - [One vs. All Multi Class Classifier](week4/machine-learning-ex3/ex3/oneVsAll.m)
+    - [Predict one vs. all Multi Class Classifier](week4/machine-learning-ex3/ex3/predictOneVsAll.m)
+    - [Neural Network Prediction Function](week4/machine-learning-ex3/ex3/predict.m)
