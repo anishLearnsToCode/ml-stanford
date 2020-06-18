@@ -74,3 +74,8 @@ __Instructor__: Andrew Ng.
     - [Neural Network Gradient (Backpropagation)](week5/ex4/checkNNGradients.m) 
     - [Neural Network Cost Function](week5/ex4/nnCostFunction.m)
     - [Regularized Gradient](week5/ex4/checkNNGradients.m)
+
+## Week 6
+### Quizzes
+
+### Programming Exercises

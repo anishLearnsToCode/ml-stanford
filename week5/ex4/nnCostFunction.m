@@ -92,7 +92,6 @@ function [J grad] = nnCostFunction(nn_params, ...
   Theta2_grad /= m; 
   Theta1_grad /= m; 
 
-
   % Part 3: Implement regularization with the cost function and gradients.
 
   regularizationMaskTheta1 = (lambda / m) * ones(size(Theta1));
