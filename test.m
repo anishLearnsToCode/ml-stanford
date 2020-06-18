@@ -1,18 +1,16 @@
 clc;
 clear;
 
-function value = sigmoid(matrix)
-  value = 1./ (1 + exp(-matrix));
-endfunction
+y = [1 1 ; 1 2 ; 1 3];
+y = y == 2;
+disp(y);
 
-X = [1 1 ; 1 2 ; 1 3];
-all_theta = [0 0 ; 1 1 ; 2 2 ; 3 3];
-
-hypotheses = X * all_theta';
-disp(hypotheses);
-probabilities = sigmoid(hypotheses);
-disp(probabilities);
-
-[maxProbabilities index] = max(probabilities, [], 2);
-disp(maxProbabilities);
-disp(index);
+function row = labelVector(len, label)
+    row = zeros(len, 1);
+    row(label) = 1;
+ endfunction
+ 
+ disp(labelVector(4, 2)');
+ disp(labelVector(3, 1)');
+ disp(labelVector(10, 6)');
+ 

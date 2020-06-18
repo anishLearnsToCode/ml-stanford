@@ -63,3 +63,14 @@ __Instructor__: Andrew Ng.
 ## Week 5
 ### Quizzes
 - [Neural Networks: Learning](week5/neural-networks-quiz.md)
+
+### Programming Exercises
+- [Questions and Expalanations](week5/ex4.pdf)
+- [Exercise 4](week5/ex4)
+    - [Feedforward and Cost Function](week5/ex4/nnCostFunction.m)
+    - [Regularized Cost Function](week5/ex4/nnCostFunction.m)
+    - [Compute Gradient of Sigmoid Function](week5/ex4/sigmoidGradient.m)
+    - [Randomly Initialize Weights](week5/ex4/randInitializeWeights.m)
+    - [Neural Network Gradient (Backpropagation)](week5/ex4/checkNNGradients.m) 
+    - [Neural Network Cost Function](week5/ex4/nnCostFunction.m)
+    - [Regularized Gradient](week5/ex4/checkNNGradients.m)
