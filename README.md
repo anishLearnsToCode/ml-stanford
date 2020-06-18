@@ -58,3 +58,8 @@ __Instructor__: Andrew Ng.
     - [One vs. All Multi Class Classifier](week4/machine-learning-ex3/ex3/oneVsAll.m)
     - [Predict one vs. all Multi Class Classifier](week4/machine-learning-ex3/ex3/predictOneVsAll.m)
     - [Neural Network Prediction Function](week4/machine-learning-ex3/ex3/predict.m)
+
+
+## Week 5
+### Quizzes
+- [Neural Networks: Learning](week5/neural-networks-quiz.md)
