@@ -11,9 +11,24 @@ function J = regressionCost(hypothesis, data, result)
   J = (1 / (2 * trainingSampleSize)) * sum((data * hypothesis - result) .^ 2);
 endfunction
 
+function J = regularizedRegressionCost(theta, X, y, regularizationConstant)
+  J = regressionCost(theta, X, y);
+  trainingSampleSize = length(y);
+  J += (regularizationConstant / (2 * trainingSampleSize)) * sum(theta .^ 2);
+endfunction
+
 function grad = regressionGradient(hypothesis, X, y)
   trainingSampleSize = size(X, 1);
   grad = (1 / trainingSampleSize) * (((X * hypothesis) - y)' * X)';
+endfunction
+
+function grad = regularizedRegressionGradient(theta, X, y, lambda)
+  grad = regressionGradient(theta, X, y);
+  trainingSampleSize = size(X, 1);
+  features = size(X, 2) - 1;
+  regularizationMask = (lambda / trainingSampleSize) * ones(features + 1, 1);
+  regularizationMask(1) = 0;
+  grad += regularizationMask .* theta;
 endfunction
 
 function [minCost, hypothesis, costMemory] = gradientDescent(hypothesis, X, y, iterations, learningRate)
@@ -44,3 +59,14 @@ disp('hypothesis');
 disp(hypothesis);
 
 plot(costMemory);
+
+disp('gradient');
+disp(regularizedRegressionGradient(hypothesis, data, y, 10));
+
+clc;
+
+X = [1 1 ; 1 2 ; 1 3];
+y = [1 ; 2 ; 3];
+lambda = 0.05;
+theta = trainLineaReg(X, y, lambda);
+disp(theta);

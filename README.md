@@ -10,6 +10,12 @@ __Instructor__: Andrew Ng.
 | [Week 3](#week-3) | [[Quizzes]](#quizzes-2) [[Programming Assignment]](#programming-exercises-1) |
 | [Week 4](#week-4) | [[Quizzes]](#quizzes-3) [[Programming Assignment]](#programming-exercises-2) |
 | [Week 5](#week-5) | [[Quizzes]](#quizzes-4) [[Programming Assignment]](#programming-exercises-3) |
+| [Week 6](#week-6) | [[Quizzes]](#quizzes-5) [[Programming Assignment]](#programming-exercises-4) |
+| [Week 7](#week-7) | [[Quizzes]](#quizzes-6) [[Programming Assignment]](#programming-exercises-5) |
+| [Week 8](#week-8) | [[Quizzes]](#quizzes-7) [[Programming Assignment]](#programming-exercises-6) |
+| [Week 9](#week-9) | [[Quizzes]](#quizzes-8) [[Programming Assignment]](#programming-exercises-7) |
+| [Week 10](#week-10) | [[Quizzes]](#quizzes-9) [[Programming Assignment]](#programming-exercises-8) |
+| [Week 11](#week-11) | [[Quizzes]](#quizzes-10) [[Programming Assignment]](#programming-exercises-9) |
 
 
 ## Week 1
@@ -65,7 +71,7 @@ __Instructor__: Andrew Ng.
 - [Neural Networks: Learning](week5/neural-networks-quiz.md)
 
 ### Programming Exercises
-- [Questions and Expalanations](week5/ex4.pdf)
+- [Questions and Explanations](week5/ex4.pdf)
 - [Exercise 4](week5/ex4)
     - [Feedforward and Cost Function](week5/ex4/nnCostFunction.m)
     - [Regularized Cost Function](week5/ex4/nnCostFunction.m)
@@ -76,6 +82,38 @@ __Instructor__: Andrew Ng.
     - [Regularized Gradient](week5/ex4/checkNNGradients.m)
 
 ## Week 6
+### Quizzes
+- [Advice for Applied Machine Learning](week6/advice-for-applying-machine-learning.md)
+
+### Programming Exercises
+- [Questions and Explanations](week6/ex5.pdf)
+- [Exercise 5](week6/ex5)
+    - [Regularized Linear Regression Cost Function](week6/ex5/linearRegCostFunction.m)
+    - [Generate Learning Curve](week6/ex5/learningCurve.m)
+    - [Maps Data into Polynomial Feature Space](week6/ex5/polyFeatures.m)
+    - [Generates a Cross Validation Curve](week6/ex5/validationCurve.m)
+
+## Week 7
+### Quizzes
+
+### Programming Exercises
+
+## Week 8
+### Quizzes
+
+### Programming Exercises
+
+## Week 9
+### Quizzes
+
+### Programming Exercises
+
+## Week 10
+### Quizzes
+
+### Programming Exercises
+
+## Week 11
 ### Quizzes
 
 ### Programming Exercises
