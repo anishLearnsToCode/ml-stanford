@@ -84,6 +84,7 @@ __Instructor__: Andrew Ng.
 ## Week 6
 ### Quizzes
 - [Advice for Applied Machine Learning](week6/advice-for-applying-machine-learning.md)
+- [Machine  Learning System Design Quiz](week6/machine-learning-system-design-quiz.md)
 
 ### Programming Exercises
 - [Questions and Explanations](week6/ex5.pdf)
