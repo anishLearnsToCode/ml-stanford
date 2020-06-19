@@ -52,7 +52,27 @@ function recall = recall(predicted, actual)
   recall = truePositives / actualPositives;
 endfunction
 
+function g = sigmoid(z)
+  g = 1 ./ (1 + exp(-z));
+endfunction
+
+function p = predict(theta, X)
+  probabilities = sigmoid(X * theta);
+  p = probabilities >= 0.5;
+endfunction
+
+function score = f1Score(precisions, recalls)
+  product = precisions .* recalls;
+  sum = precisions + recalls;
+  score = 2 * product ./ sum;
+endfunction
+
 actual = [1 1 1 0 0 0]';
 predicted = [1 0 1 1 1 0]';
 disp(precision(predicted, actual));
 disp(recall(predicted, actual));
+disp(predict([1 ; 2], [1 1 ; 1 2 ; 1 3 ; 1 -10]));
+
+precisions = [0.5 0.7 0.02]';
+recalls = [0.4 0.1 1.0]';
+disp(f1Score(precisions, recalls));
