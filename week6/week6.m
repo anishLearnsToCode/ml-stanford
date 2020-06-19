@@ -61,6 +61,7 @@ function p = predict(theta, X)
   p = probabilities >= 0.5;
 endfunction
 
+% 2PR / (P + R)
 function score = f1Score(precisions, recalls)
   product = precisions .* recalls;
   sum = precisions + recalls;

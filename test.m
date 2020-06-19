@@ -52,6 +52,10 @@ function recall = recall(predicted, actual)
   recall = truePositives / actualPositives;
 endfunction
 
+function p = predict(theta, X)
+  
+endfunction
+
 actual = [1 1 1 0 0 0]';
 predicted = [1 0 1 1 1 0]';
 disp(precision(predicted, actual));

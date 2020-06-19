@@ -96,6 +96,7 @@ __Instructor__: Andrew Ng.
 
 ## Week 7
 ### Quizzes
+- [Support Vector Machines (SVM)](week7/support-vector-machines-quiz.md)
 
 ### Programming Exercises
 
