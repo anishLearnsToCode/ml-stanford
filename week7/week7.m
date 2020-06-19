@@ -66,5 +66,10 @@ disp(kernel(X, X));
 disp(predictKernel([1 ; 2], [1 1 ; 1 2 ; 1 3 ; 1 -10]));
 
 
-disp(var([1, 2, 3, 4, 10]));
-disp(var(X, [], 2));
+% disp(var([1, 2, 3, 4, 10]));
+% disp(var(X, [], 2));
+
+mat = [ 1 2 3 ; 10 -89 0];
+[min, index] = min(mat(:, 3));
+disp(min);
+disp(index);

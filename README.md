@@ -99,6 +99,12 @@ __Instructor__: Andrew Ng.
 - [Support Vector Machines (SVM)](week7/support-vector-machines-quiz.md)
 
 ### Programming Exercises
+- [Questions and Explanations](week7/ex6.pdf)
+- [Exercise 6: Support Vector Machines](week7/ex6)
+    - [Gaussian Kernel for SVM](week7/ex6/gaussianKernel.m)
+    - [Parameters to Use for Dataset 3](week7/ex6/dataset3Params.m)
+    - [Email Preprocessing](week7/ex6/processEmail.m)
+    - [Feature Extraction From Email](week7/ex6/emailFeatures.m)
 
 ## Week 8
 ### Quizzes
