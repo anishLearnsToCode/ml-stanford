@@ -112,6 +112,14 @@ __Instructor__: Andrew Ng.
 - [Principal Component Analysis](week8/principal-component-analysis.md)
 
 ### Programming Exercises
+- [Exercise 7: Questions and Explanations](week8/ex7.pdf)
+- [K Means Clustering and PCA(Principal Component Analysis)](week8/ex7)
+    - [Perform PCA(Principal Component Analysis)](week8/ex7/pca.m)
+    - [Project a Dataset into lower dimensional space](week8/ex7/projectData.m)
+    - [Recover the Original Data from the Projection](week8/ex7/recoverData.m)
+    - [Find Closest Centroids Using K-Means](week8/ex7/findClosestCentroids.m)
+    - [Compute Centroid Means](week8/ex7/computeCentroids.m)
+    - [Initialize K means for Centroids](week8/ex7/kMeansInitCentroids.m)
 
 ## Week 9
 ### Quizzes
