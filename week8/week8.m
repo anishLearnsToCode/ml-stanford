@@ -1,6 +1,7 @@
 clc;
 clear;
 
+% Function used to display elbow plot
 function costs = clusterVariationCosts(X)
   K = size(X, 1);
   for i = 1:K
@@ -85,4 +86,5 @@ disp('multiple k means');
 disp('min cost'); disp(minCost);
 disp('k means'); disp(kMeans);
 
+% Elbow plot
 plot(clusterVariationCosts(data));

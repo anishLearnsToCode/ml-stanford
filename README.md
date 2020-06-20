@@ -109,6 +109,7 @@ __Instructor__: Andrew Ng.
 ## Week 8
 ### Quizzes
 - [Unsupervised Learning](week8/unsupervised-learning-quiz.md)
+- [Principal Component Analysis](week8/principal-component-analysis.md)
 
 ### Programming Exercises
 
