@@ -108,6 +108,7 @@ __Instructor__: Andrew Ng.
 
 ## Week 8
 ### Quizzes
+- [Unsupervised Learning](week8/unsupervised-learning-quiz.md)
 
 ### Programming Exercises
 
