@@ -5,3 +5,4 @@
 ![Question 3](assets/anomaly-detection/question-3.PNG)
 ![Question 4](assets/anomaly-detection/question-4.PNG)
 ![Question 5](assets/anomaly-detection/question-5.PNG)
+gradient
