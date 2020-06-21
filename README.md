@@ -127,8 +127,11 @@ __Instructor__: Andrew Ng.
 - [Reccomender Systems](week9/reccomender-systems-quiz.md)
 
 ### Programming Exercises
-- [Exercise 8: Questions and Explanations](week8/ex7.pdf)
-- [](week8/ex7)
+- [Exercise 8: Questions and Explanations](week9/ex8.pdf)
+- [Anomaly Detection and Reccomender Systems](week9/ex8)
+    - [Estimate Gaussian Parameters](week9/ex8/estimateGaussian.m)
+    - [Find Threshold for Anomaly Detection](week9/ex8/selectThreshold.m)
+    - [Cost Function for Collaborative Filterinf](week9/ex8/cofiCostFunc.m)
 
 ## Week 10
 ### Quizzes
