@@ -123,8 +123,12 @@ __Instructor__: Andrew Ng.
 
 ## Week 9
 ### Quizzes
+- [Anomaly Detection](week9/)
+- []()
 
 ### Programming Exercises
+- [Exercise 8: Questions and Explanations](week8/ex7.pdf)
+- [](week8/ex7)
 
 ## Week 10
 ### Quizzes
