@@ -14,8 +14,8 @@ __Instructor__: Andrew Ng.
 | [Week 7](#week-7) | [[Quizzes]](#quizzes-6) [[Programming Assignment]](#programming-exercises-5) |
 | [Week 8](#week-8) | [[Quizzes]](#quizzes-7) [[Programming Assignment]](#programming-exercises-6) |
 | [Week 9](#week-9) | [[Quizzes]](#quizzes-8) [[Programming Assignment]](#programming-exercises-7) |
-| [Week 10](#week-10) | [[Quizzes]](#quizzes-9) [[Programming Assignment]](#programming-exercises-8) |
-| [Week 11](#week-11) | [[Quizzes]](#quizzes-10) [[Programming Assignment]](#programming-exercises-9) |
+| [Week 10](#week-10) | [[Quizzes]](#quizzes-9) |
+| [Week 11](#week-11) | [[Quizzes]](#quizzes-10) |
 
 
 ## Week 1
@@ -135,10 +135,8 @@ __Instructor__: Andrew Ng.
 
 ## Week 10
 ### Quizzes
-
-### Programming Exercises
+- []()
 
 ## Week 11
 ### Quizzes
-
-### Programming Exercises
+- [Application: Photo OCR]()
