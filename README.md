@@ -135,8 +135,8 @@ __Instructor__: Andrew Ng.
 
 ## Week 10
 ### Quizzes
-- []()
+- [Large Scale Machine Learning](week10/large-scale-ml-quiz.md)
 
 ## Week 11
 ### Quizzes
-- [Application: Photo OCR]()
+- [Application: Photo OCR](week11/application-photo-ocr-quiz.md)
