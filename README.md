@@ -1,5 +1,12 @@
-# Machine Learning By Stanford on Coursera  
-__Instructor__: Andrew Ng.
+# Machine Learning ~ Stanford   
+
+![HitCount](http://hits.dwyl.com/anishLearnsToCode/ml-stanford.svg)
+![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
+[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+![uni](https://img.shields.io/badge/University-Stanford-1f72ff.svg)
+![instructor](https://img.shields.io/badge/Instructor-Andrew%20Ng-1f72ff.svg)
 
 ## Index
 
