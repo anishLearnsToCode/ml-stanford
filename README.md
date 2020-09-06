@@ -1,7 +1,7 @@
 # Machine Learning ~ Stanford   
 
 ![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
 [![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
 
 ## Index
