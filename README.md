@@ -1,13 +1,8 @@
 # Machine Learning ~ Stanford   
 
-![HitCount](http://hits.dwyl.com/anishLearnsToCode/ml-stanford.svg)
 ![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
-[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
-[![platform](https://img.shields.io/badge/Platform-Coursera-1f72ff.svg)](https://www.coursera.org/learn/machine-learning)
-![uni](https://img.shields.io/badge/University-Stanford-1f72ff.svg)
-[![instructor](https://img.shields.io/badge/Instructor-Andrew%20Ng-1f72ff.svg)](https://www.coursera.org/instructor/andrewng)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg
+[![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
 
 ## Index
 
