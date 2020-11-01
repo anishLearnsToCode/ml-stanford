@@ -4,22 +4,19 @@
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
 [![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
 
-## Index
-
-| Week | Links |
-|:----:|:-----:|
-| [Week 1](#week-1) | [[Quizzes]](#quizzes) |
-| [Week 2](#week-2) | [[Quizzes]](#quizzes-1) [[Programming Assignment]](#programming-exercises) |
-| [Week 3](#week-3) | [[Quizzes]](#quizzes-2) [[Programming Assignment]](#programming-exercises-1) |
-| [Week 4](#week-4) | [[Quizzes]](#quizzes-3) [[Programming Assignment]](#programming-exercises-2) |
-| [Week 5](#week-5) | [[Quizzes]](#quizzes-4) [[Programming Assignment]](#programming-exercises-3) |
-| [Week 6](#week-6) | [[Quizzes]](#quizzes-5) [[Programming Assignment]](#programming-exercises-4) |
-| [Week 7](#week-7) | [[Quizzes]](#quizzes-6) [[Programming Assignment]](#programming-exercises-5) |
-| [Week 8](#week-8) | [[Quizzes]](#quizzes-7) [[Programming Assignment]](#programming-exercises-6) |
-| [Week 9](#week-9) | [[Quizzes]](#quizzes-8) [[Programming Assignment]](#programming-exercises-7) |
-| [Week 10](#week-10) | [[Quizzes]](#quizzes-9) |
-| [Week 11](#week-11) | [[Quizzes]](#quizzes-10) |
-
+## 📖 Overview
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+- [Week 3](#week-3)
+- [Week 4](#week-4)
+- [Week 5](#week-5)
+- [Week 6](#week-6)
+- [Week 7](#week-7)
+- [Week 8](#week-8)
+- [Week 9](#week-9)
+- [Week 10](#week-10)
+- [Week 11](#week-11)
+- [Certificate](#-certificate)
 
 ## Week 1
 ### Quizzes
@@ -143,3 +140,6 @@
 ## Week 11
 ### Quizzes
 - [Application: Photo OCR](week11/application-photo-ocr-quiz.md)
+
+## 🎓 [Certificate](http://coursera.org/verify/PY3HEUJFNZ2M)
+![certificate](assets/certificate.PNG)
